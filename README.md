@@ -6,3 +6,5 @@ Other skills used: VS Code, command line, and git basics.
 
 This is part of the Udemy course:
 Build responsive websites with HTML and CSS.
+
+***Updated with link via GitHub Pages
